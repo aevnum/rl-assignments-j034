@@ -1,1 +1,4 @@
 .vscode
+Reinforcement-Learning
+*.pyc
+__pycache__/

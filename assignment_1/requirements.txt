@@ -1,0 +1,5 @@
+gymnasium
+pyglet
+box2d-py
+numpy
+pygame
